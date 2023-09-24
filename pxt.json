@@ -1,5 +1,5 @@
 {
-    "name": "TEST Potentiometer TEST project #1 - Copy",
+    "name": "Potentiometer + servo + motor...             ...fan!!!!!!!!!!!",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.17",
+        "target": "6.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [
